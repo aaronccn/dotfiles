@@ -8,5 +8,5 @@ set backspace=indent,eol,start
 set noruler
 set autoindent
 set smartindent
-
+set hls is " highlight words while typing
 
